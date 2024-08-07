@@ -3,7 +3,11 @@
 
 ★ 수업자료
 - Python 기본 : https://url.kr/ry3mg2
-- 사이킷런 K-NN : https://1drv.ms/b/s!Am_J0wepAIF1hqtNLr0JjOQcYRLXag?e=RY8bv6
+  
+★ 수업자료 - 사이킷런
+- K-NN Classifier : https://1drv.ms/b/s!Am_J0wepAIF1hqtNLr0JjOQcYRLXag?e=RY8bv6
+- K-NN Regression : https://1drv.ms/b/s!Am_J0wepAIF1hqt5TR_8j7wXFuNGZA
+- Linear & Polynomial Regression : https://1drv.ms/b/s!Am_J0wepAIF1hqt6BiXa0LjhWpBKOA?e=a02cy0
 
 
 1번째 도전과제(2024.07.30)
