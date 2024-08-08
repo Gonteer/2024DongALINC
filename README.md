@@ -8,7 +8,7 @@
 - K-NN Classifier : https://1drv.ms/b/s!Am_J0wepAIF1hqtNLr0JjOQcYRLXag?e=RY8bv6
 - K-NN Regression : https://1drv.ms/b/s!Am_J0wepAIF1hqt5TR_8j7wXFuNGZA
 - Linear & Polynomial Regression : https://1drv.ms/b/s!Am_J0wepAIF1hqt6BiXa0LjhWpBKOA?e=a02cy0
-- Multiple Regression : https://1drv.ms/b/s!Am_J0wepAIF1hqxV5L7oMNnEDHSlZg
+- Multiple Regression : https://1drv.ms/b/s!Am_J0wepAIF1hqxWZag9MDtFKywvjw?e=GvKj23
 
 
 1번째 도전과제(2024.07.30)
